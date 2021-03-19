@@ -14,4 +14,4 @@ directories:
 
 script:
    - cd hellodocker
-   - mvn -f clean verify -Pdocker
+   - mvn clean verify -Pdocker
